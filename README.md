@@ -1383,7 +1383,7 @@ Here's an awesome list of AI agents:
 
 ### BestPrice MCP
 <div><a href="https://github.com/TheBestCo/bestprice-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TheBestCo/bestprice-mcp"><img src="https://img.shields.io/github/stars/TheBestCo/bestprice-mcp?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/TheBestCo">@TheBestCo</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/phaistonian">@phaistonian</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/879">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/879">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/TheBestCo">@TheBestCo</a></p>
 <p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
 
 <p>BestPrice.gr's official MCP server and agent plugin. It gives agents read-only Greek product search, current shop offers with delivered totals, offer comparison and price history over a keyless remote endpoint.</p>
